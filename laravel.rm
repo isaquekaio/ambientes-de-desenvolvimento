@@ -1,6 +1,4 @@
-# PETRUS-API
-
-API do sistema PEPO
+# AMBIENTE DE DESENVOLVIMENTO LARAVEL
 
 ## Ambiente de desenvolvimento
 
@@ -33,7 +31,7 @@ API do sistema PEPO
 
 * Para criar o banco de dados, copie e cole no terminal o comando a baixo:
 
-`sudo -u postgres psql -c "CREATE DATABASE petrusdb;"`
+`sudo -u postgres psql -c "CREATE DATABASE nome-db;"`
 
 * Para iniciar o servidor postgres, digite no terminal:
 
@@ -41,7 +39,7 @@ API do sistema PEPO
 
 #### Instalação do Composer
 
-* Para instalar o composer, copie e cole os seguintes comandos:
+* Para instalar o composer, copie e cole os seguintes comandos no terminal:
 
 `curl -sS https://getcomposer.org/installer | php`
 
@@ -51,17 +49,15 @@ API do sistema PEPO
 
 `composer --version`
 
-#### Para executar o nosso projeto
+#### Para clonar e executar
 
 * Abra o terminal, escolha uma pasta de sua preferência e clone o projeto: 
 
-`git clone https://git.navi.ifrn.edu.br/canetaplasma/sistema-web-pepo/pepo-api.git`
+`git clone https://git...`
 
-* A terminar de clonar o repositorio, digite: 
+* Ao terminar de clonar o repositorio, entre na pasta do projeto 
 
-`cd petrus`
-
-* Dentro da pasta petrus, digite o seguinte comando: 
+* Dentro da pasta projeto, digite o seguinte comando: 
 
 `composer install`
 
