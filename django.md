@@ -42,7 +42,7 @@
 
 * Com a venv ativada, digite o seguinte comando para instalar o django:
 
-`` 
+`python -m pip install Django` 
 
 #### Para clonar e executar
 
