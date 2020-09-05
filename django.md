@@ -4,13 +4,18 @@
 
 * Python 3.7.7
 * SQLite 
-* 3.0.8
+* Django 3.0.8
+* Venv
 
 ## Passos para configurar o ambiente de desenvolvimento
 
-#### Instalação do Python
+#### Python
 
-* Geralmente no linux o python vai intalado por padrão, digite no terminal: `python --version`
+* Geralmente no linux o python em intalado por padrão, digite no terminal: `python --version`
+
+#### Instalação da Venv
+
+* ... :
 
 #### Instalação do Django
 
